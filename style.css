@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div {
+    flex-direction: row;
+}
+
+#bloco1, #bloco2, #bloco3, #bloco4, #bloco5, #bloco6, #bloco7, #bloco8, #bloco9 {
+    border: solid 1px red;
+    padding: 50px;
+}
